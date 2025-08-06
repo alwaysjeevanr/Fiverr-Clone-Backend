@@ -30,14 +30,14 @@ This is a Node.js backend for a Fiverr-like freelance marketplace. It provides R
 1. **Clone the repository:**
    ```powershell
    git clone https://github.com/alwaysjeevanr/Fiverr-Clone-Backend.git
-   cd Fiverr-Clone-Backend/server
+   cd Fiverr-Clone-Backend
    ```
 2. **Install dependencies:**
    ```powershell
    npm install
    ```
 3. **Configure environment variables:**
-   - Create a `.env` file in the `server` directory.
+   - Create a `.env` file in the `Fiverr-Clone-Backend` directory.
    - Add the following variables:
      ```env
      MONGO_URI=your_mongodb_connection_string
